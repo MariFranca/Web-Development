@@ -1,0 +1,3 @@
+Anotações aula02:
+O README é um arquivo com extensão .md, ou seja, ele é escrito em Markdown que é uma
+linguagem de marcaçãoutilizada para converter otexto em um HTML válido.
