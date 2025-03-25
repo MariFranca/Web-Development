@@ -1,5 +1,3 @@
-# Aula02
+# Aula de WebDev
 ## Subtitulo
 Projeto da aula de WebDev
-Ultilizando JavaScript
-
