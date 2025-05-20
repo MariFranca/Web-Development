@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="form" style="display: flex; flex-direction: column;">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome">
+
+        <label for="email">E-mail: </label>
+        <input type="text" id="email">
+
+        <select id="assunto">
+            <option value="opcao1">Sugestao</option>
+            <option value="opcao2">Elogios</option>
+            <option value="opcao3">Critica</option>
+        </select>
+        <label for="mensagem">Mensagem: </label>
+        <textarea id="mensagem"></textarea>
+        <button id="bntEnviar">Enviar</button>
+    </form>
+    <p id="mensagem-erro"></p>
+    <div id="cadastroUsuarios">
+        
+    </div>
+</body>
+<script src="./app.js"></script>
+</html>
